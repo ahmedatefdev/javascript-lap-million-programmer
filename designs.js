@@ -1,4 +1,5 @@
 // Select color input
+
 // Select size input
 let color = "#000000";
 let sizeHeight = 1;
